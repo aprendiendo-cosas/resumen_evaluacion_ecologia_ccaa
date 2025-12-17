@@ -1,10 +1,10 @@
 # Guión de la sesión denominada "Resumen y evaluación de la asignatura"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas.
+> + **Duración**: Aproximadamente 1 hora.
 
 ![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/imagenes/portada.jpg)
 
