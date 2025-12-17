@@ -13,7 +13,7 @@
 ## Objetivos 
 
 Esta es la última sesión de la asignatura. Aunque parezca una sesión algo redundante, tiene objetivos muy relevantes:
-+ Afianzar la visión de conjunto de la asignatura mediante la unión de las piezas conceptuales que hemos construido durante el curso.
++ Afianzar la visión de conjunto de la asignatura mediante la unión de las piezas conceptuales que hemos estudiado durante el curso.
 + Reiterar la relación entre marcos conceptuales teóricos y cuestiones aplicadas.
 + Reforzar la idea de integración y trascendencia a través de las escalas espaciales y temporales. 
 + Reflexionar sobre la calidad de la docencia impartida y de los conocimientos adquiridos.
@@ -34,11 +34,11 @@ Tras el resumen, la imagen anterior, que contiene solo los niveles jerárquicos 
 
 Durante esta parte de la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
 + [Visualización en línea](https://prezi.com/view/GTT0hRfHMk9cWP5ye4Ox/).
-+ Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/presentacion/resumen_ecologia_CCAA_2021-2022_mac.zip) y para [Windows](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/presentacion/resumen_ecologia_CCAA_2021-2022_win.exe).
-+ Descarga en formato [pdf](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/presentacion/Resumen_ecologia_CCAA_2021-2022.pdf).
++ Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/presentacion/Resumen_ecologia_CCAA_2025-2026.zip) y para [Windows](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/presentacion/Resumen_ecologia_CCAA_2025-2026.exe).
++ Descarga en formato [pdf](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/main/presentacion/Resumen_ecologia_CCAA_2025-2026.pdf).
 + También se puede ver incrustada a continuación:
 
-<p><iframe src="https://prezi.com/view/GTT0hRfHMk9cWP5ye4Ox/embed" width="1200" height="900"> </iframe></p>
+<iframe src="https://prezi.com/p/embed/4Y8b4KWEPBPr9nlzheOi/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
 
 
 
