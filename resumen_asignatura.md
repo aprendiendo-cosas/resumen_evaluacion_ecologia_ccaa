@@ -22,11 +22,9 @@ Esta es la última sesión de la asignatura. Aunque parezca una sesión algo red
 
  ## Contenidos e hilo argumental
 
-A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso (ver más abajo) los conceptos principales abordados tanto en sesiones teóricas como en prácticas. También se encajarán en este esquema las distintas actividades de evaluación que hemos desarrollado. 
+A lo largo de la sesión resumiremos sobre un esquema similar al que vimos a principios de curso los conceptos principales abordados tanto en sesiones teóricas como en prácticas. También se encajarán en este esquema las distintas actividades de trabajo en clase que hemos desarrollado. 
 
-<img src="https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/imagenes/niveles.png" alt="niveles" style="zoom: 70%;" />
-
-Tras el resumen, la imagen anterior, que contiene solo los niveles jerárquicos de organización de la vida, se transforma en una guía de las actividades realizadas durante el curso. Las actividades teóricas se representan en color azul. Las sesiones en las que se describen cuestiones aplicadas se muestran en naranja. Las prácticas en verde y las tareas y ejercicios en morado. 
+Las actividades teóricas se representan en color azul. Las sesiones en las que se describen cuestiones aplicadas se muestran en naranja. Las prácticas en verde y las tareas y ejercicios en morado. 
 
 ![portada](https://github.com/aprendiendo-cosas/resumen_ecologia_ccaa/raw/2021-2022/imagenes/niveles_actividades.png)
 
